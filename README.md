@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @mizgly
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+• Theoretical Cryptography
+• Hash Functions
+• Block Ciphers
+• Stream ciphers
+• MAC Algorithms
+• Post Quantum Cryptography
+• Multi Party Computation
+• Multivariate Equation
 
 <!---
 mizgly/mizgly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
